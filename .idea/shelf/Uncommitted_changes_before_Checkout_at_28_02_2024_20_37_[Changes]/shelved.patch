@@ -1,0 +1,15 @@
+Index: main.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><<<<<<< HEAD\r\nprint(10)\r\nprint(5)\r\n=======\r\nprint('Привет')\r\n>>>>>>> 2e7e55c (Start_Test)\r\n
+===================================================================
+diff --git a/main.py b/main.py
+--- a/main.py	
++++ b/main.py	
+@@ -1,6 +1,1 @@
+-<<<<<<< HEAD
+-print(10)
+-print(5)
+-=======
+ print('Привет')
+->>>>>>> 2e7e55c (Start_Test)
