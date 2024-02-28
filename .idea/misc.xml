@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
 <<<<<<< HEAD
+<<<<<<< HEAD
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (venv)" project-jdk-type="Python SDK" />
 =======
+=======
+>>>>>>> f3f8c35 (test)
   <component name="Black">
     <option name="sdkName" value="Python 3.11" />
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.11" project-jdk-type="Python SDK" />
+<<<<<<< HEAD
+>>>>>>> f3f8c35 (test)
+=======
 >>>>>>> f3f8c35 (test)
 </project>
