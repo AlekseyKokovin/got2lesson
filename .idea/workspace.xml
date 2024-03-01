@@ -7,13 +7,6 @@
     <list default="true" id="ad10f294-b448-42cc-bdc0-4ae363817427" name="Changes" comment="no files">
       <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_02_2024_20_37__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_28_02_2024_20_37__Changes_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/listAlex/list.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/listLeon/listLeon.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/schoolAlex/AlexSchool.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/schoolLeon/schoolLeon" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/userAlex/alex.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/feature/userLeon/userLeon.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,13 +35,24 @@
       </UrlAndAccount>
     </option>
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2d5YRkHk0yCympP6SAg0iRjqnW4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "git-widget-placeholder": "master",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "dev",
     "last_opened_file_path": "C:/Users/Alex/PycharmProjects/git_lab2_lesson2"
   }
 }]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task id="LOCAL-00001" summary="no files">
       <option name="closed" value="true" />
@@ -57,6 +61,13 @@
       <option name="presentableId" value="LOCAL-00001" />
       <option name="project" value="LOCAL" />
       <updated>1709140646948</updated>
+    </task>
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ad10f294-b448-42cc-bdc0-4ae363817427" name="Changes" comment="deleting main py" />
+      <created>1709299401579</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1709299401579</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <servers />
